@@ -1,0 +1,24 @@
+{
+  "name": "basicSocketIOChat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "chat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Derrick-Mei/basicSocketIOChat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Derrick-Mei/basicSocketIOChat/issues"
+  },
+  "homepage": "https://github.com/Derrick-Mei/basicSocketIOChat#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}

@@ -1,0 +1,1 @@
+when you go to localhost:9000 express will serve up the chat.html page which is inside the public folder
